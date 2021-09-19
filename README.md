@@ -52,8 +52,7 @@ The entire demo of the project can be found on Youtube.
 * 3D CNN
 * Wed Development 
 * ResNet
-* MySQL
-* 
+* MySQL 
   
 ## Setup
 
