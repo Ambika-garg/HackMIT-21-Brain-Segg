@@ -56,7 +56,7 @@ The entire demo of the project can be found on Youtube.
   
 ## Setup
 
-Use Command Promot to setup the environment by using requirment.txt and GPU is required to run model
+Use Command Prompt to setup the environment by using requirment.txt and GPU is required to run model
 
 ```bash
 pip install -r requirment.txt
