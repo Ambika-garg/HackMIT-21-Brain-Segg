@@ -44,7 +44,7 @@ https://youtu.be/SIP9s13xpQw
 * Anaconda
 * Cuda
 * PyCharm
-* Djano
+* Django
 * Google Colab
 * Tensorflow
 * Pytorch
