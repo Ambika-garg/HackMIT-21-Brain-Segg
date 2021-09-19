@@ -38,8 +38,7 @@ The entire demo of the project can be found on Youtube.
 ![11](https://user-images.githubusercontent.com/60806141/133929477-dec42767-f62e-4cfd-a13f-c2ce02789f32.jpeg)
 
 ## Output
-![11](https://user-images.githubusercontent.com/60806141/133929484-3f97357d-8bbb-4185-bf50-39ba45c841c4.jpeg)
-
+![12](https://user-images.githubusercontent.com/60806141/133929578-bb2539fc-c4b9-45e4-bdee-263f2e8a2c41.jpeg)
 
 
 ## Technologies and Tools 
