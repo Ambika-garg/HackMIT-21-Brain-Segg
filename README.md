@@ -15,7 +15,6 @@ It's time to expose the big lie, parading around like the truth. I call Mr. Brai
 * Features
 * Status
 * Contact 
-* 
   
 ## General Info
 
