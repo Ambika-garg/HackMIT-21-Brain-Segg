@@ -32,8 +32,18 @@ The entire demo of the project can be found on Youtube.
 ## Screenshots and Poster
 ![analytical vs  creative](https://user-images.githubusercontent.com/60806141/133929296-a0f5adfc-bd7b-4885-ac32-7de18a8db069.png)
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+
+![17](https://user-images.githubusercontent.com/60806141/133929411-820b3fb1-fe5f-4eb3-93cd-141ab5b086ad.jpeg)
+![16](https://user-images.githubusercontent.com/60806141/133929429-7833d9bd-5055-479b-adb0-c86166a17c94.jpeg)
+![15](https://user-images.githubusercontent.com/60806141/133929444-890bb674-1768-4af0-b338-d5eba5de9d5e.jpeg)
+![14](https://user-images.githubusercontent.com/60806141/133929458-840ed1dd-de23-43e0-b7b3-cb716f6aab5a.jpeg)
+![13](https://user-images.githubusercontent.com/60806141/133929460-b688199e-14ec-429d-a9d9-1d0fa115a538.jpeg)
+![11](https://user-images.githubusercontent.com/60806141/133929477-dec42767-f62e-4cfd-a13f-c2ce02789f32.jpeg)
+
+## Output
+![11](https://user-images.githubusercontent.com/60806141/133929484-3f97357d-8bbb-4185-bf50-39ba45c841c4.jpeg)
+
+
 
 ## Technologies and Tools 
 
