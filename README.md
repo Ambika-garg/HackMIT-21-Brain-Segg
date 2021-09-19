@@ -24,9 +24,6 @@ The theme at HACKMIT-21 was to use technology to improve accessibility by findin
 Insert gif or link to the demo
 
   
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 The entire demo of the project can be found on Youtube.
 
 ## Screenshots and Poster
