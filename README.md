@@ -40,7 +40,7 @@ The entire demo of the project can be found on Youtube.
 ## Technologies and Tools 
 
 * Python
-* Anacondo
+* Anaconda
 * Cuda
 * PyCharm
 * Djano
