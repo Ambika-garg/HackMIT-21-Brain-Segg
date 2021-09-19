@@ -1,8 +1,7 @@
 
 # GliomaSegg
 
-It's time to expose the big lie ,prading around like the truth.I call Mr. Brain Tumor to stand and charge him with for death of thousand of people every year .I know we don't have much time so please don't mind and allow us to show you how to detect this guy 
-.Are you stund yet ,we called us homo sapean meaing wise man ,is man really so wise ,it good to be smart but not smart for your own good. Yes we have split the atom ,build clever machine ,junk food to it but these wisdom also gave us disease like brain tumor,When wisdom speaks natures listens and today wisdom will speak for Tumor.
+It's time to expose the big lie, parading around like the truth. I call Mr. Brain Tumor to stand and charge him with for death of thousands of people every year. I know we don't have much time so please don't mind and allow us to show you how to detect this guy. Are you stunned yet, we called us homo sapiens meaning wise man, is a man so wise, it is good to be smart but not smart for your good. Yes, we have split the atom, build clever machines, junk food to it but this wisdom also gave us diseases like brain tumors, When wisdom speaks nature listens and today wisdom will speak for Tumor.
 
 
 ## Table of Contentn 
@@ -76,24 +75,25 @@ This will help you in installing all the libraries required for the project
   
 ## Features
 
-The maximum dice score achived in LGG MRI was 0.8488 and in same case sensity was 0.9922 and the specificity was 0.9966
+The project is: finished. You can see our final submission here. If you would like us to implement the project end to end for you please book a session.
+
+The maximum dice score achieved in LGG MRI was 0.8488 and in the same case density was 0.9922 and the specificity was 0.9966
 
 Features that can be added:
 
-    Deploy the project on cloud and create and API for using it.
+    Deploy the project on the cloud and create an API for using it.
 fsgfg
 
     Increase the vocabulary of our model 
 fdgfg
 
-    Incorporate feedback mechanisim to make the model more rebust
+    Incorporate feedback mechanism to make the model more robust
 asddf
 
-    Add more Traning data
-
+    Add more Training data
+    
 ## Status
-
-Project is: finished. You can see our final submission here.If you would like us to implement the project end to end for you please book a session
+The project is: finished. You can see our final submission here. If you would like us to implement the project end to end for you please book a session.
 
 
 
@@ -103,14 +103,14 @@ Project is: finished. You can see our final submission here.If you would like us
 
 Created by us 
 
-* Chirag 
+* Ambika Garg
 
-* Ambika
+* Chirag Arora
 
-* Pranav
+* Eshaan Raj
 
-* Eshann
+* Pranava Seth
 
-if you loved what you read here and feel like we can collabrate to product some exciting stuff,or if you just want to shoot a question , please feel free to contact us on email linkednin Our other projects can be found here
+If you loved what you read here and feel like we can collaborate to produce some exciting stuff, or if you just want to shoot a question, please feel free to contact us on email LinkedIn Our other projects can be found here.
 
 
